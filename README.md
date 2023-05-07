@@ -18,7 +18,7 @@ cd insta-info
 python tool-insta.py
 ```
 
-# running on ptdroid3 :
+# running on pydroid3 :
 ![pydroid3](https://telegra.ph/file/bf11fa4ff02da0c4f7528.png)
 
 https://play.google.com/store/apps/details?id=ru.iiec.pydroid3
