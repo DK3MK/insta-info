@@ -18,4 +18,9 @@ cd insta-info
 python tool-insta.py
 ```
 
+# running on ptdroid3 :
+[pydroid3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3)
+https://play.google.com/store/apps/details?id=ru.iiec.pydroid3
+
+
 <h3>- Thank you for your interest in this, Follow me for more bey :)</h3>
