@@ -11,9 +11,11 @@
 apt update && apt upgrade -y
 pkg update && pkg upgrade
 pkg install python
+pkg install git
 ```
 # Download the tool :
 ```
+git clone https://github.com/Dark-Man747/insta-info
 cd insta-info
 python tool-insta.py
 ```
