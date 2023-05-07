@@ -1,4 +1,12 @@
-import requests, os
+import os
+try:
+    os.system('pip install requests')
+    os.system('pip install user_agent')
+    os.system('pip install colorama')
+except:
+    print('Done')
+
+import requests
 from user_agent import generate_user_agent
 from colorama import Fore,Style
 
