@@ -2,6 +2,7 @@
 
 
 <h2>$ Download On Termux.</h2>
+
 # Download requirements :
 ```
 apt update && apt upgrade -y
