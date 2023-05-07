@@ -1,7 +1,7 @@
 <h3>- This is a tool that will fetch you information about the username on Instagram</h3>
 
 
-![ghjhg](https://telegra.ph/file/48c603132838f5c2612a8.png)
+![image](https://telegra.ph/file/48c603132838f5c2612a8.png)
 
 
 <h2>$ Download On Termux.</h2>
@@ -19,7 +19,7 @@ python tool-insta.py
 ```
 
 # running on ptdroid3 :
-[pydroid3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3)
+![pydroid3](https://play.google.com/store/apps/details?id=ru.iiec.pydroid3)
 https://play.google.com/store/apps/details?id=ru.iiec.pydroid3
 
 
