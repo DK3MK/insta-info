@@ -1,4 +1,4 @@
-<h3>- This is a tool that will fetch you information about the username on Instagram</h3>
+<h3>- This is a tool that will fetch you information about the username on Instagram.</h3>
 
 
 ![image](https://telegra.ph/file/48c603132838f5c2612a8.png)
