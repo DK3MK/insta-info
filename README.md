@@ -1,7 +1,7 @@
 <h3>- This is a tool that will fetch you information about the username on Instagram</h3>
 
 
-<h2>$ Download On Termux.</24>
+<h2>$ Download On Termux.</h2>
 # Download requirements :
 ```
 apt update && apt upgrade -y
