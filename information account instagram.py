@@ -30,8 +30,8 @@ head = {
     'accept':'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9',
     'accept-encoding':'gzip,deflate,br',
     'accept-language':'en-US,en;q=0.9,ar;q=0.8',
-    'cookie':'ig_did=77A45489-9A4C-43AD-9CA7-FA3FAB22FE24;ig_nrcb=1;csrftoken=VOPH7fUUOP85ChEViZkd2PhLkUQoP8P8;mid=YGwlfgALAAEryeSgDseYghX2LAC-',
-    'user-agent': 'Instagram 9.4.0 Android (30/11; 480dpi; 1080x2158; OPPO; CPH2069; OP4C7BL1; qcom; en_US; 276028020)'#generate_user_agent(),
+    'cookie':'mid=Y_uo7AALAAH37jDgISXeGrw-EYJz; ig_did=FCBB16B3-C36F-49C1-B3FC-0EDE85F66652; ig_nrcb=1; csrftoken=S4x1xplfnPwJqhHntm5R9FBv42k28dpD; ds_user_id=47675279829; sessionid=47675279829%3AQHMZZxVAh1twjN%3A2%3AAYdG38b-Bn14Ny_LuwvswLVfZvpDRyuS6pyWwj2qgg',
+    'user-agent': generate_user_agent(),#'Instagram 9.4.0 Android (30/11; 480dpi; 1080x2158; OPPO; CPH2069; OP4C7BL1; qcom; en_US; 276028020)'
     }
 information = requests.get(url,headers=head).json()
 
