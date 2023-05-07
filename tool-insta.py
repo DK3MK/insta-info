@@ -14,24 +14,40 @@ b0 = Style.RESET_ALL
 b1 = Fore.YELLOW
 b4 = Fore.LIGHTCYAN_EX
 b5 = Fore.LIGHTYELLOW_EX
-
+b6 = Fore.RED
+b7 = Fore.GREEN
+b8 = Fore.MAGENTA
+b9 = Fore.BLUE
 os.system('cls' if os.name == 'nt' else 'clear')
 logo = f"""{b1}
-     ____                         __  __ 
-    / ___| _   _ _ __   ___ _ __  \ \/ / 
-    \___ \| | | | '_ \ / _ \ '__|  \  /  
-     ___) | |_| | |_) |  __/ |     /  \  
-    |____/ \__,_| .__/ \___|_|    /_/\_\ {b4}v6
-{b1}                |_|                     
-{b5}Coded By ABOUD SUPER X 747 || Follow me for more.
-{b1}━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-    {b1}instagram==> {b0}aboud_coding
-    {b1}github==> {b0}Dark-Man747
-
+   /$$                         /$$
+  | $$                        | $$
+ /$$$$$$    /$$$$$$   /$$$$$$ | $$
+|_  $$_/   /$$__  $$ /$$__  $$| $$
+  | $$    | $$  \ $$| $$  \ $$| $$
+  | $$ /$$| $$  | $$| $$  | $$| $$
+  |  $$$$/|  $$$$$$/|  $$$$$$/| $$
+   \___/   \______/  \______/ |__/
+         /$$                       /$$              
+        |__/                      | $$              
+         /$$ /$$$$$$$   /$$$$$$$ /$$$$$$    /$$$$$$ 
+        | $$| $$__  $$ /$$_____/|_  $$_/   |____  $$
+        | $$| $$  \ $$|  $$$$$$   | $$      /$$$$$$$
+        | $$| $$  | $$ \____  $$  | $$ /$$ /$$__  $$
+        | $$| $$  | $$ /$$$$$$$/  |  $$$$/|  $$$$$$$
+        |__/|__/  |__/|_______/    \___/   \_______/ {b8}version 3
+{b1}                    
+{b6}┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
+{b6}┃ {b5}Coded By {b8}DARK MAN 747{b5} || Follow me for more.    {b6}┃
+{b6}┃           {b0}━{b8}━{b0}━{b8}━{b0}━{b8}━{b0}━{b8}━{b0}━{b8}━{b0}━{b8}━{b0}━{b8}━{b0}━{b8}━{b0}━{b8}━{b0}━{b8}━{b0}━{b8}━{b0}━{b8}━{b0}━{b8}━            {b6}┃
+{b6}┃   {b0}[{b1}+{b0}] {b7}InstaGram: {b4}aboud_coding                   {b6}┃
+{b6}┃   {b0}[{b1}+{b0}] {b7}GitHub: {b4}Dark-Man747                       {b6}┃
+{b6}┃   {b0}[{b1}+{b0}] {b7}TikTok: {b4}kmhp                              {b6}┃
+{b6}┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
     """
 print(logo)
 
-target = input('Enter Target ==> ')
+target = input(f'{b0}[{b1}?{b0}] {b9}Enter username: {b6}')
 
 url = f"https://www.instagram.com/{target}/?__a=1&__d=dis"
 head = {
@@ -39,7 +55,8 @@ head = {
     'accept-encoding':'gzip,deflate,br',
     'accept-language':'en-US,en;q=0.9,ar;q=0.8',
     'cookie':'mid=Y_uo7AALAAH37jDgISXeGrw-EYJz; ig_did=FCBB16B3-C36F-49C1-B3FC-0EDE85F66652; ig_nrcb=1; csrftoken=S4x1xplfnPwJqhHntm5R9FBv42k28dpD; ds_user_id=47675279829; sessionid=47675279829%3AQHMZZxVAh1twjN%3A2%3AAYdG38b-Bn14Ny_LuwvswLVfZvpDRyuS6pyWwj2qgg',
-    'user-agent': generate_user_agent(),#'Instagram 9.4.0 Android (30/11; 480dpi; 1080x2158; OPPO; CPH2069; OP4C7BL1; qcom; en_US; 276028020)'
+    'user-agent': generate_user_agent(),#'Instagram 9.4.0 Android (30/11; 480dpi; 1080x2158; OPPO; CPH2069; OP4C7BL1; qcom; en_US; 276028020)',#generate_user_agent(),
+
     }
 information = requests.get(url,headers=head).json()
 
