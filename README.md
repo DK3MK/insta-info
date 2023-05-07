@@ -20,21 +20,28 @@ python tool-insta.py
 
 # running on ptdroid3 :
 ![pydroid3](https://telegra.ph/file/bf11fa4ff02da0c4f7528.png)
+
 https://play.google.com/store/apps/details?id=ru.iiec.pydroid3
 
+<h2>You can download it from the link above ⤴</h2>
+
+
+
+<h3>- It brings you all this information :)</h3>
 
 | label | outputs |
 | --- | --- |
-| صف 1، عمود 1 | صف 1، عمود 2 |
-| صف 2، عمود 1 | صف 2، عمود 2 |
-| صف 3، عمود 1 | صف 3، عمود 2 |
-| صف 1، عمود 1 | صف 1، عمود 2 |
-| صف 2، عمود 1 | صف 2، عمود 2 |
-| صف 3، عمود 1 | صف 3، عمود 2 |
-| صف 1، عمود 1 | صف 1، عمود 2 |
-| صف 2، عمود 1 | صف 2، عمود 2 |
-| صف 3، عمود 1 | صف 3، عمود 2 |
-| صف 3، عمود 1 | صف 3، عمود 2 |
+| Id | Yes ✅ |
+| Name | Yes ✅ |
+| Bio | Yes ✅ |
+| Followers | Yes ✅ |
+| Following | Yes ✅ |
+| posts | Yes ✅ |
+| date | Yes ✅ |
+| Bio link | Yes ✅ |
+| Private | Yes ✅ |
+| Business Account | Yes ✅ |
+
 
 
 <h3>- Thank you for your interest in this, Follow me for more bey :)</h3>
