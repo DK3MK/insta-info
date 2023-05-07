@@ -23,7 +23,7 @@ python tool-insta.py
 https://play.google.com/store/apps/details?id=ru.iiec.pydroid3
 
 
-| العمود الأول | العمود الثاني |
+| label | outputs |
 | --- | --- |
 | صف 1، عمود 1 | صف 1، عمود 2 |
 | صف 2، عمود 1 | صف 2، عمود 2 |
@@ -34,7 +34,7 @@ https://play.google.com/store/apps/details?id=ru.iiec.pydroid3
 | صف 1، عمود 1 | صف 1، عمود 2 |
 | صف 2، عمود 1 | صف 2، عمود 2 |
 | صف 3، عمود 1 | صف 3، عمود 2 |
-
+| صف 3، عمود 1 | صف 3، عمود 2 |
 
 
 <h3>- Thank you for your interest in this, Follow me for more bey :)</h3>
