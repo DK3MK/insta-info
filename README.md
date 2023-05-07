@@ -1,7 +1,7 @@
 <h3>- This is a tool that will fetch you information about the username on Instagram</h3>
 
 
-![alt text]("https://lh3.googleusercontent.com/-9bjNg8MUsqQ/AAAAAAAAAAI/AAAAAAAAAAA/AGvMrBviWGs_qHEBvhAEudl48wrQLguMzw/photo.jpg?sz=46")
+![ghjhg]("https://telegra.ph/file/48c603132838f5c2612a8.png")
 
 
 <h2>$ Download On Termux.</h2>
