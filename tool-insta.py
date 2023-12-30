@@ -7,7 +7,7 @@ except:
     print('Done')
 
 # this tool information account on instagram . . .
-# بسم الله رب البدايات نبدأ
+# بسم الله رب البدايات نبدأ . . .
 import requests, json
 from colorama import Fore,Style
 from user_agent import generate_user_agent
