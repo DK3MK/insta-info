@@ -41,7 +41,7 @@ logo = f"""{b1}
         |__/|__/  |__/|_______/    \___/   \_______/ {b8}version 4
 {b1}                    
 {b6}┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-{b6}┃ {b5}Coded By {b8}DARK MAN 747{b5} || Follow me for more.    {b6}┃
+{b6}┃ {b5}Coded By {b8}dark man{b5} || Follow me for more.    {b6}┃
 {b6}┃           {b0}━{b8}━{b0}━{b8}━{b0}━{b8}━{b0}━{b8}━{b0}━{b8}━{b0}━{b8}━{b0}━{b8}━{b0}━{b8}━{b0}━{b8}━{b0}━{b8}━{b0}━{b8}━{b0}━{b8}━{b0}━{b8}━            {b6}┃
 {b6}┃   {b0}[{b1}+{b0}] {b7}InstaGram: {b4}aboud_coding                   {b6}┃
 {b6}┃   {b0}[{b1}+{b0}] {b7}GitHub: {b4}DK3MK                             {b6}┃
